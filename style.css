@@ -1,0 +1,20 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+    background: linear-gradient(white 0%, blue 100%);
+}
+
+#animal_img{
+    border-radius: 35%;
+}
+
+.copyright_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: blue;
+    line-height: 3;
+    text-shadow: 5px 5px 5px black;
+}
